@@ -1,0 +1,8 @@
+{
+    "TV_IP": "192.xxx.x.XX",
+    "CLIENT_KEY": {
+        "client_key": "<insert_key>"
+    },
+    "THRESHOLD": 0.5,
+    "MUTE_DURATION": 30
+}

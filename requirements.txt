@@ -1,0 +1,7 @@
+# LG TV Control
+pywebostv==0.8.4
+
+# Audio Processing
+numpy==1.26.4
+sounddevice==0.4.6
+
